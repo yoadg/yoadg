@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Stairway to the Cloud](https://yoadg.github.io/)
 
-- 📝 I regularly write articles on [Stairway to the cloud posts](https://yoadg.github.io/posts/)
+- 📝 I regularly write articles on [Stairway to the Cloud blog](https://yoadg.github.io/posts/)
 
-- 📫 How to reach me **yoad.gidron@gmail.com**
+- 📫 How to reach me at **yoad.gidron@gmail.com**
 
-- 📄 Know about my experiences [My LinkedIn profile](https://www.linkedin.com/in/yoadg/)
+- 📄 Know about my experiences in [my LinkedIn profile](https://www.linkedin.com/in/yoadg/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
