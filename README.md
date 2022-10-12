@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [Stairway to the Cloud blog](https://yoadg.github.io/posts/)
 
-- 📫 How to reach me at **yoad.gidron@gmail.com**
+- 📫 You can reach me at **yoad.gidron@gmail.com**
 
 - 📄 Know about my experiences in [my LinkedIn profile](https://www.linkedin.com/in/yoadg/)
 
