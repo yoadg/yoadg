@@ -12,6 +12,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Operating Systems](https://yoadg.github.io/posts/2022/10/13/os.html)
+- [Hardware](https://yoadg.github.io/posts/2022/10/02/hardware.html)
+- [Welcome to Stairway to the Cloud](https://yoadg.github.io/posts/2022/09/23/welcome.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
