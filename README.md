@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yoad Gidron</h1>
 <h3 align="center">A veteran software technology leader and entrepreneur</h3>
 
-- 🔭 I’m currently working on [Stairway to the Cloud](https://yoadg.github.io/)
+- 🔭 I’m currently working on [Stairway to the Cloud](https://github.com/yoadg/yoadg.github.io)
 
-- 📝 I regularly write articles on [Stairway to the Cloud blog](https://yoadg.github.io/posts/)
+- 📝 I regularly write articles on [Stairway to the Cloud](https://yoadg.github.io/posts/)
 
 - 📫 You can reach me at **yoad.gidron@gmail.com**
 
