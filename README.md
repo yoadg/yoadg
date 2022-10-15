@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences in [my LinkedIn profile](https://www.linkedin.com/in/yoadg/)
 
-# Blog posts
+# Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Operating Systems](https://yoadg.github.io/posts/2022/10/13/os.html)
