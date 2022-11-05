@@ -12,10 +12,10 @@
 # Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Storage](https://yoadg.github.io/posts/2022/11/05/storage.html)
 - [Virtualization](https://yoadg.github.io/posts/2022/10/28/virtualization.html)
 - [Operating Systems](https://yoadg.github.io/posts/2022/10/13/os.html)
 - [Hardware](https://yoadg.github.io/posts/2022/10/02/hardware.html)
-- [Welcome to Stairway to the Cloud](https://yoadg.github.io/posts/2022/09/23/welcome.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
