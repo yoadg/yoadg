@@ -12,10 +12,10 @@
 # Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloud Computing](https://yoadg.github.io/posts/2022/12/02/cloud.html)
 - [Internet](https://yoadg.github.io/posts/2022/11/25/internet.html)
 - [Storage](https://yoadg.github.io/posts/2022/11/05/storage.html)
 - [Virtualization](https://yoadg.github.io/posts/2022/10/28/virtualization.html)
-- [Operating Systems](https://yoadg.github.io/posts/2022/10/13/os.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
