@@ -12,10 +12,10 @@
 # Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Relational vs. NoSQL Databases](https://yoadg.github.io/posts/2022/12/31/databases.html)
 - [Cloud Computing as a Service](https://yoadg.github.io/posts/2022/12/02/cloud.html)
 - [The Internet](https://yoadg.github.io/posts/2022/11/25/internet.html)
 - [Cloud Storage](https://yoadg.github.io/posts/2022/11/05/storage.html)
-- [Virtual Computing](https://yoadg.github.io/posts/2022/10/28/virtualization.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
