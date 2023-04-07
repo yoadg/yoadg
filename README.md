@@ -12,10 +12,10 @@
 # Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Evolution of Data Serialization Formats](https://yoadg.github.io/posts/2023/04/07/serialization.html)
 - [Evolution of Remote Procedure Calls into Web Services](https://yoadg.github.io/posts/2023/03/01/webservices.html)
 - [TCP/IP, HTTP and Other Protocols](https://yoadg.github.io/posts/2023/01/24/protocols.html)
 - [Relational vs. NoSQL Databases](https://yoadg.github.io/posts/2022/12/31/databases.html)
-- [Cloud Computing as a Service](https://yoadg.github.io/posts/2022/12/02/cloud.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
