@@ -12,10 +12,10 @@
 # Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Load Balancer, Reverse Proxy and API Gateway](https://yoadg.github.io/posts/2024/06/27/loadbalacer.html)
 - [Kubernetes and other container orchestration tools](https://yoadg.github.io/posts/2024/04/13/orchestration.html)
 - [The Evolution of Big Data](https://yoadg.github.io/posts/2024/02/17/bigdata.html)
 - [Asynchronous Messaging](https://yoadg.github.io/posts/2023/06/28/messaging.html)
-- [Evolution of Data Serialization Formats](https://yoadg.github.io/posts/2023/04/07/serialization.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
